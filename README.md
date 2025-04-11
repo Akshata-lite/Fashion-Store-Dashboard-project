@@ -22,7 +22,6 @@ This dashboard is created to analyze and present sales performance, customer dem
 - Channels like **Myntra** and **Flipkart** also hold a significant share, making it essential to maintain partnerships across platforms.
 - Minimal cancellations and returns show customer satisfaction is relatively high.
 
-![image](https://github.com/user-attachments/assets/fashion-dashboard-image-placeholder)
 
 ## Data Story :  
 This dashboard provides a comprehensive story of how our fashion store is performing across various dimensions. We observed that sales are concentrated in specific regions and seasons. By leveraging this insight, the business can:
