@@ -1,7 +1,7 @@
 # Fashion-Store-Dashboard-project
 A visually compelling Excel dashboard for a fashion store's annual performance report, showcasing key insights on sales, customer demographics, and order trends. Built to support data-driven business decisions and strategy planning.
 # Fashion Store Annual Report Dashboard  
-<img src="Fashion Store.jpeg" alt="Fashion Clothing Store" width="1080" height="580">
+<img src="Fashion Store.jpeg" alt="Fashion Clothing Store" width="1080" height="550">
 
 ## Overview :  
 This dashboard is created to analyze and present sales performance, customer demographics, and order trends for an online fashion store. The aim is to help stakeholders understand patterns across products, regions, and channels to make better business decisions and optimize operations.
