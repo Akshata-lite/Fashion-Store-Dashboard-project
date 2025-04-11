@@ -31,5 +31,5 @@ This dashboard provides a comprehensive story of how our fashion store is perfor
 - Encourage more **personalized marketing** based on age and gender distribution.
 
 ## Dashboard :  
-<img src="FashionStore_Dashboard.png" alt="Fashion Store Sales Dashboard" width="1080" height="580">
+<img src="Dashboard_image.png" alt="Fashion Store Sales Dashboard" width="1080" height="580">
 
